@@ -1,0 +1,71 @@
+Home,Away,HomeGoals,AwayGoals
+Persepolis,Esteghlal,0,0
+Esteghlal,Persepolis,1,1
+Persepolis,Esteghlal,1,0
+Persepolis,Sepahan,0,0
+Sepahan,Persepolis,1,0
+Persepolis,Tractor,2,0
+Tractor,Persepolis,1,1
+Persepolis,Gol Gohar,1,0
+Gol Gohar,Persepolis,0,1
+Persepolis,Foolad,4,2
+Foolad,Persepolis,0,2
+Persepolis,Zob Ahan,1,1
+Zob Ahan,Persepolis,0,1
+Persepolis,Malavan,1,0
+Malavan,Persepolis,0,0
+Esteghlal,Sepahan,1,0
+Sepahan,Esteghlal,1,0
+Esteghlal,Tractor,2,0
+Tractor,Esteghlal,0,0
+Esteghlal,Gol Gohar,1,0
+Gol Gohar,Esteghlal,1,1
+Esteghlal,Foolad,1,0
+Foolad,Esteghlal,0,0
+Esteghlal,Zob Ahan,2,1
+Zob Ahan,Esteghlal,1,1
+Esteghlal,Malavan,1,0
+Malavan,Esteghlal,1,1
+Sepahan,Tractor,3,1
+Tractor,Sepahan,0,0
+Sepahan,Gol Gohar,2,0
+Gol Gohar,Sepahan,3,1
+Sepahan,Foolad,3,1
+Foolad,Sepahan,1,3
+Sepahan,Zob Ahan,1,0
+Zob Ahan,Sepahan,0,2
+Sepahan,Malavan,1,2
+Malavan,Sepahan,1,2
+Tractor,Gol Gohar,2,0
+Gol Gohar,Tractor,0,1
+Tractor,Foolad,2,0
+Foolad,Tractor,0,2
+Tractor,Zob Ahan,1,4
+Zob Ahan,Tractor,1,0
+Tractor,Malavan,3,1
+Malavan,Tractor,0,0
+Gol Gohar,Foolad,3,0
+Foolad,Gol Gohar,0,1
+Gol Gohar,Zob Ahan,1,2
+Zob Ahan,Gol Gohar,1,0
+Gol Gohar,Malavan,1,1
+Malavan,Gol Gohar,1,0
+Foolad,Zob Ahan,1,0
+Zob Ahan,Foolad,0,0
+Foolad,Malavan,1,1
+Malavan,Foolad,4,0
+Zob Ahan,Malavan,1,1
+Malavan,Zob Ahan,1,2
+Persepolis,Esteghlal,0,1
+Esteghlal,Persepolis,0,1
+Persepolis,Sepahan,2,1
+Sepahan,Persepolis,0,1
+Persepolis,Tractor,1,0
+Esteghlal,Tractor,3,1
+Sepahan,Esteghlal,2,1
+Tractor,Sepahan,1,0
+Gol Gohar,Persepolis,0,2
+Foolad,Esteghlal,1,1
+Zob Ahan,Sepahan,1,1
+Malavan,Persepolis,1,0
+Esteghlal,Sepahan,1,1

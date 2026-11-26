@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "event_id": "401841329",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "São Paulo",
+    "away": "Remo",
+    "date": "27 Kas Cum 02:00",
+    "raw_date": "2026-11-26T23:00Z",
+    "bookie_odds": {
+      "1": 1.37,
+      "X": 4.7,
+      "2": 8.5,
+      "over_25": 1.87,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 2,
+    "event_id": "401875536",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "FC Groningen",
+    "away": "Willem II",
+    "date": "27 Kas Cum 22:00",
+    "raw_date": "2026-11-27T19:00Z",
+    "bookie_odds": {
+      "1": 1.42,
+      "X": 4.9,
+      "2": 6.0,
+      "over_25": 2.1,
+      "under_25": 1.65
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 3,
+    "event_id": "401884720",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "Werder Bremen",
+    "away": "Borussia Mönchengladbach",
+    "date": "27 Kas Cum 22:30",
+    "raw_date": "2026-11-27T19:30Z",
+    "bookie_odds": {
+      "1": 1.69,
+      "X": 4.2,
+      "2": 4.0,
+      "over_25": 2.3,
+      "under_25": 1.61
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 4,
+    "event_id": "401875004",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Venezia",
+    "away": "Bologna",
+    "date": "27 Kas Cum 22:45",
+    "raw_date": "2026-11-27T19:45Z",
+    "bookie_odds": {
+      "1": 3.25,
+      "X": 3.15,
+      "2": 2.2,
+      "over_25": 2.05,
+      "under_25": 1.74
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 5,
+    "event_id": "401876392",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Brest",
+    "away": "Paris FC",
+    "date": "27 Kas Cum 22:45",
+    "raw_date": "2026-11-27T19:45Z",
+    "bookie_odds": {
+      "1": 3.35,
+      "X": 3.4,
+      "2": 2.2,
+      "over_25": 1.87,
+      "under_25": 1.91
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 6,
+    "event_id": "401879225",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Nottingham Forest",
+    "away": "Chelsea",
+    "date": "27 Kas Cum 23:00",
+    "raw_date": "2026-11-27T20:00Z",
+    "bookie_odds": {
+      "1": 2.5,
+      "X": 3.35,
+      "2": 2.85,
+      "over_25": 1.8,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 7,
+    "event_id": "401882791",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Levante",
+    "away": "Racing Santander",
+    "date": "27 Kas Cum 23:00",
+    "raw_date": "2026-11-27T20:00Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 4.0,
+      "2": 3.3,
+      "over_25": 2.05,
+      "under_25": 1.8
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 8,
+    "event_id": "401885389",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Maritimo",
+    "away": "C.D. Nacional",
+    "date": "27 Kas Cum 23:15",
+    "raw_date": "2026-11-27T20:15Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 3.3,
+      "2": 3.55,
+      "over_25": 2.0,
+      "under_25": 1.71
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 9,
+    "event_id": "401841337",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Fluminense",
+    "away": "Cruzeiro",
+    "date": "28 Kas Cts 02:00",
+    "raw_date": "2026-11-27T23:00Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 3.6,
+      "2": 3.35,
+      "over_25": 1.69,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 10,
+    "event_id": "401882796",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Real Betis",
+    "away": "Rayo Vallecano",
+    "date": "28 Kas Cts 16:00",
+    "raw_date": "2026-11-28T13:00Z",
+    "bookie_odds": {
+      "1": 1.61,
+      "X": 4.4,
+      "2": 5.0,
+      "over_25": 2.4,
+      "under_25": 1.57
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 11,
+    "event_id": "401875081",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Frosinone",
+    "away": "Parma",
+    "date": "28 Kas Cts 17:00",
+    "raw_date": "2026-11-28T14:00Z",
+    "bookie_odds": {
+      "1": 1.47,
+      "X": 4.8,
+      "2": 5.25,
+      "over_25": 1.95,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 12,
+    "event_id": "401884721",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "FC Cologne",
+    "away": "SV Elversberg",
+    "date": "28 Kas Cts 17:30",
+    "raw_date": "2026-11-28T14:30Z",
+    "bookie_odds": {
+      "1": 2.0,
+      "X": 3.7,
+      "2": 3.3,
+      "over_25": 1.57,
+      "under_25": 2.35
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 13,
+    "event_id": "401884722",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "Hamburg SV",
+    "away": "Bayern Munich",
+    "date": "28 Kas Cts 17:30",
+    "raw_date": "2026-11-28T14:30Z",
+    "bookie_odds": {
+      "1": 2.1,
+      "X": 3.3,
+      "2": 3.2,
+      "over_25": 1.85,
+      "under_25": 1.85
+    },
+    "has_live_odds": false
+  },
+  {
+    "id": 14,
+    "event_id": "401884723",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "Mainz",
+    "away": "1. FC Union Berlin",
+    "date": "28 Kas Cts 17:30",
+    "raw_date": "2026-11-28T14:30Z",
+    "bookie_odds": {
+      "1": 1.48,
+      "X": 4.5,
+      "2": 5.5,
+      "over_25": 2.35,
+      "under_25": 1.59
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 15,
+    "event_id": "401884719",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "SC Paderborn 07",
+    "away": "Schalke 04",
+    "date": "28 Kas Cts 17:30",
+    "raw_date": "2026-11-28T14:30Z",
+    "bookie_odds": {
+      "1": 2.4,
+      "X": 3.35,
+      "2": 2.75,
+      "over_25": 1.77,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 16,
+    "event_id": "401879227",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Leeds United",
+    "away": "Coventry City",
+    "date": "28 Kas Cts 18:00",
+    "raw_date": "2026-11-28T15:00Z",
+    "bookie_odds": {
+      "1": 1.49,
+      "X": 4.6,
+      "2": 6.5,
+      "over_25": 1.69,
+      "under_25": 2.15
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 17,
+    "event_id": "401879226",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Manchester United",
+    "away": "Brentford",
+    "date": "28 Kas Cts 18:00",
+    "raw_date": "2026-11-28T15:00Z",
+    "bookie_odds": {
+      "1": 2.15,
+      "X": 3.75,
+      "2": 3.2,
+      "over_25": 1.57,
+      "under_25": 2.4
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 18,
+    "event_id": "401882790",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Málaga",
+    "away": "Athletic Club",
+    "date": "28 Kas Cts 18:15",
+    "raw_date": "2026-11-28T15:15Z",
+    "bookie_odds": {
+      "1": 4.7,
+      "X": 3.9,
+      "2": 1.74,
+      "over_25": 1.83,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 19,
+    "event_id": "401875537",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "Excelsior",
+    "away": "Telstar",
+    "date": "28 Kas Cts 18:30",
+    "raw_date": "2026-11-28T15:30Z",
+    "bookie_odds": {
+      "1": 1.95,
+      "X": 3.65,
+      "2": 3.5,
+      "over_25": 1.62,
+      "under_25": 2.15
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 20,
+    "event_id": "401885392",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Arouca",
+    "away": "Rio Ave",
+    "date": "28 Kas Cts 18:30",
+    "raw_date": "2026-11-28T15:30Z",
+    "bookie_odds": {
+      "1": 1.67,
+      "X": 3.75,
+      "2": 4.9,
+      "over_25": 1.87,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 21,
+    "event_id": "401885388",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Moreirense",
+    "away": "Santa Clara",
+    "date": "28 Kas Cts 18:30",
+    "raw_date": "2026-11-28T15:30Z",
+    "bookie_odds": {
+      "1": 3.1,
+      "X": 3.05,
+      "2": 2.35,
+      "over_25": 2.3,
+      "under_25": 1.56
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 22,
+    "event_id": "401876394",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Angers",
+    "away": "Lens",
+    "date": "28 Kas Cts 19:15",
+    "raw_date": "2026-11-28T16:15Z",
+    "bookie_odds": {
+      "1": 4.7,
+      "X": 4.1,
+      "2": 1.69,
+      "over_25": 1.67,
+      "under_25": 2.15
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 23,
+    "event_id": "401874826",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Torino",
+    "away": "Lazio",
+    "date": "28 Kas Cts 20:00",
+    "raw_date": "2026-11-28T17:00Z",
+    "bookie_odds": {
+      "1": 3.35,
+      "X": 3.35,
+      "2": 2.05,
+      "over_25": 1.87,
+      "under_25": 1.91
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 24,
+    "event_id": "401878752",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Ipswich Town",
+    "away": "Aston Villa",
+    "date": "28 Kas Cts 20:30",
+    "raw_date": "2026-11-28T17:30Z",
+    "bookie_odds": {
+      "1": 3.55,
+      "X": 3.9,
+      "2": 1.95,
+      "over_25": 2.35,
+      "under_25": 1.61
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 25,
+    "event_id": "401882793",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Elche",
+    "away": "Atlético Madrid",
+    "date": "28 Kas Cts 20:30",
+    "raw_date": "2026-11-28T17:30Z",
+    "bookie_odds": {
+      "1": 6.0,
+      "X": 4.8,
+      "2": 1.48,
+      "over_25": 2.4,
+      "under_25": 1.57
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 26,
+    "event_id": "401884726",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "VfB Stuttgart",
+    "away": "Eintracht Frankfurt",
+    "date": "28 Kas Cts 20:30",
+    "raw_date": "2026-11-28T17:30Z",
+    "bookie_odds": {
+      "1": 1.71,
+      "X": 4.4,
+      "2": 3.65,
+      "over_25": 1.69,
+      "under_25": 2.15
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 27,
+    "event_id": "401875531",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "PSV Eindhoven",
+    "away": "Go Ahead Eagles",
+    "date": "28 Kas Cts 20:45",
+    "raw_date": "2026-11-28T17:45Z",
+    "bookie_odds": {
+      "1": 1.22,
+      "X": 7.0,
+      "2": 9.0,
+      "over_25": 2.1,
+      "under_25": 1.65
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 28,
+    "event_id": "401885393",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Académico de Viseu",
+    "away": "Alverca",
+    "date": "28 Kas Cts 21:00",
+    "raw_date": "2026-11-28T18:00Z",
+    "bookie_odds": {
+      "1": 2.55,
+      "X": 3.1,
+      "2": 2.85,
+      "over_25": 1.95,
+      "under_25": 1.74
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 29,
+    "event_id": "401874977",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Internazionale",
+    "away": "Genoa",
+    "date": "28 Kas Cts 22:45",
+    "raw_date": "2026-11-28T19:45Z",
+    "bookie_odds": {
+      "1": 1.29,
+      "X": 5.25,
+      "2": 8.5,
+      "over_25": 2.35,
+      "under_25": 1.59
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 30,
+    "event_id": "401876391",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Le Havre AC",
+    "away": "Strasbourg",
+    "date": "28 Kas Cts 22:45",
+    "raw_date": "2026-11-28T19:45Z",
+    "bookie_odds": {
+      "1": 3.15,
+      "X": 3.55,
+      "2": 2.2,
+      "over_25": 1.69,
+      "under_25": 2.15
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 31,
+    "event_id": "401876390",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Le Mans",
+    "away": "Lille",
+    "date": "28 Kas Cts 22:45",
+    "raw_date": "2026-11-28T19:45Z",
+    "bookie_odds": {
+      "1": 3.65,
+      "X": 3.45,
+      "2": 2.05,
+      "over_25": 2.05,
+      "under_25": 1.74
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 32,
+    "event_id": "401876388",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Nice",
+    "away": "Troyes",
+    "date": "28 Kas Cts 22:45",
+    "raw_date": "2026-11-28T19:45Z",
+    "bookie_odds": {
+      "1": 1.67,
+      "X": 4.1,
+      "2": 4.9,
+      "over_25": 1.65,
+      "under_25": 2.2
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 33,
+    "event_id": "401876387",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Paris Saint-Germain",
+    "away": "Lorient",
+    "date": "28 Kas Cts 22:45",
+    "raw_date": "2026-11-28T19:45Z",
+    "bookie_odds": {
+      "1": 1.21,
+      "X": 7.0,
+      "2": 12.0,
+      "over_25": 2.1,
+      "under_25": 1.71
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 34,
+    "event_id": "401882789",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Real Madrid",
+    "away": "Alavés",
+    "date": "28 Kas Cts 23:00",
+    "raw_date": "2026-11-28T20:00Z",
+    "bookie_odds": {
+      "1": 1.12,
+      "X": 10.0,
+      "2": 18.0,
+      "over_25": 1.83,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 35,
+    "event_id": "401875530",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "SC Cambuur",
+    "away": "Sparta Rotterdam",
+    "date": "28 Kas Cts 23:00",
+    "raw_date": "2026-11-28T20:00Z",
+    "bookie_odds": {
+      "1": 2.15,
+      "X": 3.8,
+      "2": 2.95,
+      "over_25": 2.0,
+      "under_25": 1.74
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 36,
+    "event_id": "401885385",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Vitória de Guimaraes",
+    "away": "Estrela",
+    "date": "28 Kas Cts 23:30",
+    "raw_date": "2026-11-28T20:30Z",
+    "bookie_odds": {
+      "1": 1.69,
+      "X": 3.8,
+      "2": 4.6,
+      "over_25": 1.77,
+      "under_25": 1.95
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 37,
+    "event_id": "401841336",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Botafogo",
+    "away": "Bahia",
+    "date": "29 Kas Paz 03:00",
+    "raw_date": "2026-11-29T00:00Z",
+    "bookie_odds": {
+      "1": 2.0,
+      "X": 3.75,
+      "2": 3.25,
+      "over_25": 2.3,
+      "under_25": 1.56
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 38,
+    "event_id": "401875538",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "ADO Den Haag",
+    "away": "FC Utrecht",
+    "date": "29 Kas Paz 14:15",
+    "raw_date": "2026-11-29T11:15Z",
+    "bookie_odds": {
+      "1": 2.65,
+      "X": 3.65,
+      "2": 2.4,
+      "over_25": 1.56,
+      "under_25": 2.3
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 39,
+    "event_id": "401875031",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Udinese",
+    "away": "Fiorentina",
+    "date": "29 Kas Paz 14:30",
+    "raw_date": "2026-11-29T11:30Z",
+    "bookie_odds": {
+      "1": 3.0,
+      "X": 3.4,
+      "2": 2.2,
+      "over_25": 1.71,
+      "under_25": 2.1
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 40,
+    "event_id": "401879229",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Everton",
+    "away": "Liverpool",
+    "date": "29 Kas Paz 15:00",
+    "raw_date": "2026-11-29T12:00Z",
+    "bookie_odds": {
+      "1": 4.4,
+      "X": 3.8,
+      "2": 1.8,
+      "over_25": 1.67,
+      "under_25": 2.2
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 41,
+    "event_id": "401882787",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Valencia",
+    "away": "Osasuna",
+    "date": "29 Kas Paz 16:00",
+    "raw_date": "2026-11-29T13:00Z",
+    "bookie_odds": {
+      "1": 2.15,
+      "X": 3.2,
+      "2": 3.6,
+      "over_25": 2.25,
+      "under_25": 1.65
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 42,
+    "event_id": "401875535",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "Feyenoord Rotterdam",
+    "away": "Ajax Amsterdam",
+    "date": "29 Kas Paz 16:30",
+    "raw_date": "2026-11-29T13:30Z",
+    "bookie_odds": {
+      "1": 2.15,
+      "X": 3.9,
+      "2": 2.9,
+      "over_25": 1.91,
+      "under_25": 1.8
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 43,
+    "event_id": "401875534",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "Fortuna Sittard",
+    "away": "Heerenveen",
+    "date": "29 Kas Paz 16:30",
+    "raw_date": "2026-11-29T13:30Z",
+    "bookie_odds": {
+      "1": 3.5,
+      "X": 3.75,
+      "2": 1.95,
+      "over_25": 2.3,
+      "under_25": 1.56
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 44,
+    "event_id": "401874992",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Sassuolo",
+    "away": "Napoli",
+    "date": "29 Kas Paz 17:00",
+    "raw_date": "2026-11-29T14:00Z",
+    "bookie_odds": {
+      "1": 4.4,
+      "X": 4.2,
+      "2": 1.62,
+      "over_25": 1.57,
+      "under_25": 2.4
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 45,
+    "event_id": "401876393",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "AJ Auxerre",
+    "away": "Marseille",
+    "date": "29 Kas Paz 17:00",
+    "raw_date": "2026-11-29T14:00Z",
+    "bookie_odds": {
+      "1": 3.85,
+      "X": 4.0,
+      "2": 1.87,
+      "over_25": 1.61,
+      "under_25": 2.3
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 46,
+    "event_id": "401879231",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Brighton & Hove Albion",
+    "away": "Newcastle United",
+    "date": "29 Kas Paz 17:05",
+    "raw_date": "2026-11-29T14:05Z",
+    "bookie_odds": {
+      "1": 1.56,
+      "X": 4.5,
+      "2": 5.5,
+      "over_25": 2.3,
+      "under_25": 1.61
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 47,
+    "event_id": "401879230",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Crystal Palace",
+    "away": "Hull City",
+    "date": "29 Kas Paz 17:05",
+    "raw_date": "2026-11-29T14:05Z",
+    "bookie_odds": {
+      "1": 1.87,
+      "X": 3.8,
+      "2": 3.95,
+      "over_25": 1.74,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 48,
+    "event_id": "401879228",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Fulham",
+    "away": "AFC Bournemouth",
+    "date": "29 Kas Paz 17:05",
+    "raw_date": "2026-11-29T14:05Z",
+    "bookie_odds": {
+      "1": 2.75,
+      "X": 3.5,
+      "2": 2.55,
+      "over_25": 1.77,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 49,
+    "event_id": "401879224",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Sunderland",
+    "away": "Tottenham Hotspur",
+    "date": "29 Kas Paz 17:05",
+    "raw_date": "2026-11-29T14:05Z",
+    "bookie_odds": {
+      "1": 3.7,
+      "X": 3.35,
+      "2": 2.1,
+      "over_25": 1.95,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 50,
+    "event_id": "401884724",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "SC Freiburg",
+    "away": "RB Leipzig",
+    "date": "29 Kas Paz 17:30",
+    "raw_date": "2026-11-29T14:30Z",
+    "bookie_odds": {
+      "1": 2.65,
+      "X": 3.7,
+      "2": 2.3,
+      "over_25": 2.2,
+      "under_25": 1.67
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 51,
+    "event_id": "401882794",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Deportivo",
+    "away": "Barcelona",
+    "date": "29 Kas Paz 18:15",
+    "raw_date": "2026-11-29T15:15Z",
+    "bookie_odds": {
+      "1": 10.0,
+      "X": 7.5,
+      "2": 1.22,
+      "over_25": 1.62,
+      "under_25": 2.25
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 52,
+    "event_id": "401875532",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "PEC Zwolle",
+    "away": "AZ Alkmaar",
+    "date": "29 Kas Paz 18:45",
+    "raw_date": "2026-11-29T15:45Z",
+    "bookie_odds": {
+      "1": 5.0,
+      "X": 4.6,
+      "2": 1.54,
+      "over_25": 2.1,
+      "under_25": 1.67
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 53,
+    "event_id": "401876386",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Toulouse",
+    "away": "Stade Rennais",
+    "date": "29 Kas Paz 19:15",
+    "raw_date": "2026-11-29T16:15Z",
+    "bookie_odds": {
+      "1": 2.55,
+      "X": 3.6,
+      "2": 2.6,
+      "over_25": 1.67,
+      "under_25": 2.2
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 54,
+    "event_id": "401878753",
+    "league": "premier_league",
+    "league_name": "İngiltere Premier League",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag_code": "gb-eng",
+    "home": "Arsenal",
+    "away": "Manchester City",
+    "date": "29 Kas Paz 19:30",
+    "raw_date": "2026-11-29T16:30Z",
+    "bookie_odds": {
+      "1": 2.0,
+      "X": 3.8,
+      "2": 3.55,
+      "over_25": 1.74,
+      "under_25": 2.1
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 55,
+    "event_id": "401884725",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "TSG Hoffenheim",
+    "away": "FC Augsburg",
+    "date": "29 Kas Paz 19:30",
+    "raw_date": "2026-11-29T16:30Z",
+    "bookie_odds": {
+      "1": 1.69,
+      "X": 4.5,
+      "2": 3.8,
+      "over_25": 1.74,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 56,
+    "event_id": "401874769",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "AS Roma",
+    "away": "Monza",
+    "date": "29 Kas Paz 20:00",
+    "raw_date": "2026-11-29T17:00Z",
+    "bookie_odds": {
+      "1": 1.19,
+      "X": 6.5,
+      "2": 10.5,
+      "over_25": 1.87,
+      "under_25": 1.91
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 57,
+    "event_id": "401882795",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Celta Vigo",
+    "away": "Villarreal",
+    "date": "29 Kas Paz 20:30",
+    "raw_date": "2026-11-29T17:30Z",
+    "bookie_odds": {
+      "1": 2.75,
+      "X": 3.55,
+      "2": 2.5,
+      "over_25": 1.77,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 58,
+    "event_id": "401885390",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Gil Vicente",
+    "away": "Estoril",
+    "date": "29 Kas Paz 21:00",
+    "raw_date": "2026-11-29T18:00Z",
+    "bookie_odds": {
+      "1": 1.8,
+      "X": 3.65,
+      "2": 4.2,
+      "over_25": 1.91,
+      "under_25": 1.8
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 59,
+    "event_id": "401884727",
+    "league": "bundesliga",
+    "league_name": "Almanya Bundesliga",
+    "flag": "🇩🇪",
+    "flag_code": "de",
+    "home": "Borussia Dortmund",
+    "away": "Bayer Leverkusen",
+    "date": "29 Kas Paz 21:30",
+    "raw_date": "2026-11-29T18:30Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 3.75,
+      "2": 2.95,
+      "over_25": 2.15,
+      "under_25": 1.65
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 60,
+    "event_id": "401875533",
+    "league": "eredivisie",
+    "league_name": "Hollanda Eredivisie",
+    "flag": "🇳🇱",
+    "flag_code": "nl",
+    "home": "NEC Nijmegen",
+    "away": "FC Twente",
+    "date": "29 Kas Paz 22:00",
+    "raw_date": "2026-11-29T19:00Z",
+    "bookie_odds": {
+      "1": 3.55,
+      "X": 4.1,
+      "2": 1.8,
+      "over_25": 1.87,
+      "under_25": 1.77
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 61,
+    "event_id": "401841333",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Coritiba",
+    "away": "Flamengo",
+    "date": "29 Kas Paz 22:00",
+    "raw_date": "2026-11-29T19:00Z",
+    "bookie_odds": {
+      "1": 4.0,
+      "X": 4.1,
+      "2": 1.69,
+      "over_25": 1.65,
+      "under_25": 2.05
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 62,
+    "event_id": "401841332",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Vitória",
+    "away": "Santos",
+    "date": "29 Kas Paz 22:00",
+    "raw_date": "2026-11-29T19:00Z",
+    "bookie_odds": {
+      "1": 3.0,
+      "X": 3.35,
+      "2": 2.2,
+      "over_25": 1.77,
+      "under_25": 1.91
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 63,
+    "event_id": "401874994",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Como",
+    "away": "Juventus",
+    "date": "29 Kas Paz 22:45",
+    "raw_date": "2026-11-29T19:45Z",
+    "bookie_odds": {
+      "1": 2.0,
+      "X": 3.4,
+      "2": 3.3,
+      "over_25": 1.77,
+      "under_25": 1.95
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 64,
+    "event_id": "401876389",
+    "league": "ligue_1",
+    "league_name": "Fransa Ligue 1",
+    "flag": "🇫🇷",
+    "flag_code": "fr",
+    "home": "Lyon",
+    "away": "AS Monaco",
+    "date": "29 Kas Paz 22:45",
+    "raw_date": "2026-11-29T19:45Z",
+    "bookie_odds": {
+      "1": 2.4,
+      "X": 3.3,
+      "2": 3.0,
+      "over_25": 1.91,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 65,
+    "event_id": "401882788",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Real Sociedad",
+    "away": "Sevilla",
+    "date": "29 Kas Paz 23:00",
+    "raw_date": "2026-11-29T20:00Z",
+    "bookie_odds": {
+      "1": 2.15,
+      "X": 3.65,
+      "2": 3.15,
+      "over_25": 1.77,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 66,
+    "event_id": "401885387",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "FC Porto",
+    "away": "Sporting CP",
+    "date": "29 Kas Paz 23:30",
+    "raw_date": "2026-11-29T20:30Z",
+    "bookie_odds": {
+      "1": 1.91,
+      "X": 3.25,
+      "2": 4.0,
+      "over_25": 1.8,
+      "under_25": 1.87
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 67,
+    "event_id": "401841334",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Corinthians",
+    "away": "Grêmio",
+    "date": "30 Kas Pzt 00:30",
+    "raw_date": "2026-11-29T21:30Z",
+    "bookie_odds": {
+      "1": 1.61,
+      "X": 3.85,
+      "2": 5.25,
+      "over_25": 1.83,
+      "under_25": 1.83
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 68,
+    "event_id": "401841331",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Internacional",
+    "away": "Red Bull Bragantino",
+    "date": "30 Kas Pzt 00:30",
+    "raw_date": "2026-11-29T21:30Z",
+    "bookie_odds": {
+      "1": 1.95,
+      "X": 3.5,
+      "2": 3.55,
+      "over_25": 1.67,
+      "under_25": 2.0
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 69,
+    "event_id": "401841330",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Mirassol",
+    "away": "Athletico-PR",
+    "date": "30 Kas Pzt 00:30",
+    "raw_date": "2026-11-29T21:30Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 3.45,
+      "2": 3.35,
+      "over_25": 1.71,
+      "under_25": 1.95
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 70,
+    "event_id": "401841328",
+    "league": "brazil",
+    "league_name": "Brezilya Serie A",
+    "flag": "🇧🇷",
+    "flag_code": "br",
+    "home": "Atlético-MG",
+    "away": "Vasco da Gama",
+    "date": "30 Kas Pzt 01:30",
+    "raw_date": "2026-11-29T22:30Z",
+    "bookie_odds": {
+      "1": 2.55,
+      "X": 3.3,
+      "2": 2.55,
+      "over_25": 1.71,
+      "under_25": 1.95
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 71,
+    "event_id": "401875095",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Lecce",
+    "away": "Atalanta",
+    "date": "30 Kas Pzt 20:30",
+    "raw_date": "2026-11-30T17:30Z",
+    "bookie_odds": {
+      "1": 3.55,
+      "X": 3.65,
+      "2": 1.87,
+      "over_25": 1.61,
+      "under_25": 2.25
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 72,
+    "event_id": "401875019",
+    "league": "serie_a",
+    "league_name": "İtalya Serie A",
+    "flag": "🇮🇹",
+    "flag_code": "it",
+    "home": "Cagliari",
+    "away": "AC Milan",
+    "date": "30 Kas Pzt 22:45",
+    "raw_date": "2026-11-30T19:45Z",
+    "bookie_odds": {
+      "1": 4.5,
+      "X": 3.7,
+      "2": 1.67,
+      "over_25": 1.83,
+      "under_25": 1.91
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 73,
+    "event_id": "401882792",
+    "league": "la_liga",
+    "league_name": "İspanya La Liga",
+    "flag": "🇪🇸",
+    "flag_code": "es",
+    "home": "Espanyol",
+    "away": "Getafe",
+    "date": "30 Kas Pzt 23:00",
+    "raw_date": "2026-11-30T20:00Z",
+    "bookie_odds": {
+      "1": 2.05,
+      "X": 3.2,
+      "2": 3.85,
+      "over_25": 2.4,
+      "under_25": 1.54
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 74,
+    "event_id": "401885386",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Benfica",
+    "away": "FC Famalicao",
+    "date": "30 Kas Pzt 23:15",
+    "raw_date": "2026-11-30T20:15Z",
+    "bookie_odds": {
+      "1": 1.17,
+      "X": 7.0,
+      "2": 12.0,
+      "over_25": 2.05,
+      "under_25": 1.67
+    },
+    "has_live_odds": true
+  },
+  {
+    "id": 75,
+    "event_id": "401885391",
+    "league": "portugal",
+    "league_name": "Portekiz Primeira Liga",
+    "flag": "🇵🇹",
+    "flag_code": "pt",
+    "home": "Casa Pia",
+    "away": "Braga",
+    "date": "30 Kas Pzt 23:15",
+    "raw_date": "2026-11-30T20:15Z",
+    "bookie_odds": {
+      "1": 6.5,
+      "X": 4.2,
+      "2": 1.45,
+      "over_25": 1.87,
+      "under_25": 1.77
+    },
+    "has_live_odds": true
+  }
+]

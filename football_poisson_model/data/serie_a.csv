@@ -1,0 +1,73 @@
+Home,Away,HomeGoals,AwayGoals
+Inter,AC Milan,5,1
+AC Milan,Inter,1,2
+Juventus,Inter,1,1
+Inter,Juventus,1,0
+AC Milan,Juventus,0,1
+Juventus,AC Milan,0,0
+Inter,Atalanta,4,0
+Atalanta,Inter,1,2
+AC Milan,Atalanta,1,1
+Atalanta,AC Milan,3,2
+Juventus,Atalanta,2,2
+Atalanta,Juventus,0,0
+Inter,Roma,1,0
+Roma,Inter,2,4
+AC Milan,Roma,3,1
+Roma,AC Milan,1,2
+Juventus,Roma,1,0
+Roma,Juventus,1,1
+Inter,Lazio,1,1
+Lazio,Inter,0,2
+AC Milan,Lazio,2,0
+Lazio,AC Milan,0,1
+Juventus,Lazio,3,1
+Lazio,Juventus,1,0
+Inter,Napoli,1,1
+Napoli,Inter,0,3
+AC Milan,Napoli,1,0
+Napoli,AC Milan,2,2
+Juventus,Napoli,1,0
+Napoli,Juventus,2,1
+Inter,Bologna,2,2
+Bologna,Inter,0,1
+AC Milan,Bologna,2,2
+Bologna,AC Milan,0,2
+Juventus,Bologna,1,1
+Bologna,Juventus,3,3
+Atalanta,Roma,2,1
+Roma,Atalanta,1,1
+Atalanta,Lazio,3,1
+Lazio,Atalanta,3,2
+Atalanta,Napoli,1,2
+Napoli,Atalanta,0,3
+Atalanta,Bologna,1,2
+Bologna,Atalanta,1,0
+Roma,Lazio,1,0
+Lazio,Roma,0,0
+Roma,Napoli,2,0
+Napoli,Roma,2,2
+Roma,Bologna,1,3
+Bologna,Roma,2,0
+Lazio,Napoli,0,0
+Napoli,Lazio,1,2
+Lazio,Bologna,1,2
+Bologna,Lazio,1,0
+Napoli,Bologna,0,2
+Bologna,Napoli,0,0
+Inter,Fiorentina,4,0
+Fiorentina,Inter,0,1
+AC Milan,Fiorentina,1,0
+Fiorentina,AC Milan,1,2
+Juventus,Fiorentina,1,0
+Fiorentina,Juventus,0,1
+Atalanta,Fiorentina,2,3
+Fiorentina,Atalanta,3,2
+Inter,Torino,2,0
+Torino,Inter,0,3
+AC Milan,Torino,4,1
+Torino,AC Milan,3,1
+Juventus,Torino,2,0
+Torino,Juventus,0,0
+Inter,AC Milan,1,0
+AC Milan,Inter,0,2
